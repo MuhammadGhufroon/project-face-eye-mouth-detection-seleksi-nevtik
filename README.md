@@ -1,2 +1,2 @@
-# Face, eye, and mouth detection
+# Face, Eye, and Mouth Detection 
 
